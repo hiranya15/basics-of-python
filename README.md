@@ -1,60 +1,50 @@
-Experiment – 1
+# Experiment–2  
+## Python Environment, Data Types, Operators, and Basic I/O
 
-Title :
+### Aim
+To understand the Python programming environment, execution modes, variables, data types, operators, and basic input/output operations.
 
-Introduction to Python Programming and Setting Up Jupyter Notebook Using Anaconda
+### Objectives
+- Study Python environment and interfaces  
+- Understand interactive and script execution modes  
+- Learn comments in Python  
+- Understand variables, identifiers, and data types  
+- Learn different operators  
+- Perform basic input and output operations  
 
-Aim :
+### Theory
 
-To learn the fundamentals of the Python programming language, become familiar with the Python execution environment, install Python and Jupyter Notebook through the Anaconda distribution, and study different Python IDEs such as Google Colab.
+#### Python Environment & Execution Modes
+Python programs can be executed using Python Shell, Jupyter Notebook, IDEs (PyCharm, VS Code), and Google Colab.
 
-Objectives :
+- **Interactive Mode:** Executes code line by line with immediate output  
+- **Script Mode:** Executes a complete program saved in a `.py` file  
 
-To gain knowledge of Python characteristics and its areas of use
+#### Comments
+- Single-line comments use `#`  
+- Multi-line comments use triple quotes `""" """`
 
-To install Python and Jupyter Notebook using the Anaconda distribution
+#### Variables & Data Types
+Python uses dynamic typing. Common data types include:
+- `int`, `float`, `str`, `bool`  
+Use `type()` to identify the data type of a variable.
 
-To examine various Python development environments and IDEs
+#### Operators
+- **Arithmetic:** `+ - * / %`  
+- **Relational:** `> < >= <= == !=`  
+- **Logical:** `and`, `or`, `not`  
+- **Assignment:** `= += -= *= /=`  
+- **Bitwise:** `& | ^ << >>`  
 
-To run simple Python programs using Jupyter Notebook and Google Colab
+#### Input & Output
+- `input()` is used to take user input (string by default)  
+- `print()` is used to display output and formatted results  
 
-Theory : 
-1. Overview of Python
+### Programs Included
+- Demonstration of comments and execution modes  
+- Variable declaration and data type identification  
+- Arithmetic, relational, logical, assignment, and bitwise operators  
+- User input and formatted output  
 
-Python is a high-level, interpreted, and object-oriented programming language that is extensively used in fields like data science, artificial intelligence, automation, and scientific research.
-
-2. What is Anaconda?
-
-Anaconda is an open-source distribution of Python and R that is mainly designed for data science, machine learning, and large-scale data processing.
-
-Benefits of Anaconda:
-
-Includes Python, Jupyter Notebook, Spyder, and essential libraries by default
-
-Simplifies package installation and environment handling
-
-Reduces library and dependency conflicts
-
-Ideal for both beginners and advanced users
-
-Why Python?
-
-Why Jupyter Notebook?
-
-3. Installing Anaconda and Jupyter Notebook :
-
-Step 1: Download Anaconda
-
-Open the official Anaconda website: https://www.anaconda.com
-
-Select the Download option and choose Anaconda Individual Edition
-
-Download the Python 3.x version that matches your operating system
-
-If you want, I can also:
-
-Fill in “Why Python?” and “Why Jupyter Notebook?”
-
-Convert this into a lab manual format
-
-Reduce it further for exam-ready notes
+### Conclusion
+The Python environment, execution modes, comments, variables, data types, operators, and basic input/output operations were successfully studied and implemented.
